@@ -1,0 +1,1 @@
+This project is a sample google search result webpage. It just focuses on placement and order of items on the page.
